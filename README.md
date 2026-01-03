@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation and Visualization
+# Brain Tumor Segmentation and Visualisation
 
 This project implements a MATLAB-based image processing pipeline for **automatic brain tumor detection and visualization** from MRI images. The application processes multiple MRI scans, isolates the brain region, segments the tumor, and highlights it in red for clear visual interpretation.
 
