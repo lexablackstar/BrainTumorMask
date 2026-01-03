@@ -50,3 +50,8 @@ The pipeline is modular, interpretable, and adaptable for experimentation with d
    - Hole filling
    - Area filtering
 5. Overlay tumor mask in red on the original MRI image
+
+---
+📄 License
+
+This project is for educational and research purposes.
